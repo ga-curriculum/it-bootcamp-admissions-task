@@ -1,10 +1,10 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Cybersecurity Bootcamp Admissions Task</span>
   <span class="subhead">References</span>
 </h1>
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Google Account Help - Create a Google Account](https://support.google.com/accounts/answer/27441)
+- [Google Docs Editors Help - Create, view or download a file](https://support.google.com/docs/answer/49114)
+- [Google Docs Editors Help - Make Google Docs, Sheets, Slides, and Forms public](https://support.google.com/docs/answer/183965)

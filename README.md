@@ -1,21 +1,19 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Cybersecurity Bootcamp Admissions Task</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module contains the admissions assessment for the Cybersecurity Bootcamp. Students will create and share a Google Doc with their admissions advisor.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Practice](./practice/README.md)     | 15 min | Practice creating a Google Account, creating a Google Doc, renaming a Google Doc, and sharing it. |
+| [Assessment](./assessment/README.md) | 10 min | Create a Google Doc, then rename and share it.                                                    |
+| **Total content**                    | 25 min |                                                                                                   |
 
 ## References
 
@@ -25,32 +23,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [CSB - Cybersecurity Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/csb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
 
 ### Resources
 
