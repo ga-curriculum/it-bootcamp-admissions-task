@@ -15,6 +15,6 @@ The goal of the admissions assessment for the Cybersecurity Bootcamp is to creat
 
 3. Rename the document, giving it a title of your choice. Refer to the documentation provided in the previous step, and follow the steps in the **Rename a file** section if you need help.
 
-4. Make the document publicly available. If you're not sure how to do this check out the Google Docs Editors Help [documentation on making Google files public](https://support.google.com/docs/answer/183965).
+4. Make the document publicly available. If you're unsure how to do this, check out the Google Docs Editors Help [documentation on making Google files public](https://support.google.com/docs/answer/183965).
 
 5. After completing the steps above, anyone should be able to view your document. You can check this by copying the URL to your document and pasting it into a new *private* browser window. If you can see the document, then it is publicly available.

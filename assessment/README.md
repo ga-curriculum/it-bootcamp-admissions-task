@@ -5,7 +5,7 @@
 
 ## Goal
 
-The goal of the admissions assessment for the Cybersecurity Bootcamp is to create a Google Doc and share it with your admissions advisor so they are able to view it. You can practice this assessment by following the steps below.
+The goal of the admissions assessment for the Cybersecurity Bootcamp is to create a Google Doc and share it with your admissions advisor so they are able to view it.
 
 ## Steps
 
