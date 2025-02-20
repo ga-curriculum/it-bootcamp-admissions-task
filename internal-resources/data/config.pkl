@@ -21,16 +21,24 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
+    name = "csb"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.practice
+      mls.assessment
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.practice
+      mls.assessment
     }
   }
 }

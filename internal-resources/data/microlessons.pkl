@@ -2,30 +2,16 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+practice = new Template.Microlesson {
+  friendlyName = "Practice"
+  dirName = "practice"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
-  type = "Content"
-  videoUrl = ""
-}
-
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
-  type = "Content"
-  videoUrl = ""
-}
-
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+assessment = new Template.Microlesson {
+  friendlyName = "Assessment"
+  dirName = "assessment"
   type = "Content"
   videoUrl = ""
 }
