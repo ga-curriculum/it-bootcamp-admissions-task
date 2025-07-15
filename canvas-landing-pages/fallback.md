@@ -1,12 +1,12 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Cybersecurity Bootcamp Admissions Task</span>
+  <span class="headline">IT Bootcamp Admissions Task</span>
 </h1>
 
 ## About
 
-This module contains the admissions assessment for the Cybersecurity Bootcamp. Students will create and share a Google Doc with their admissions advisor.
+This module contains the admissions assessment for the IT Bootcamp. Students will create and share a Google Doc with their admissions advisor.
 
 ## Content
 

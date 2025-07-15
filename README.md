@@ -1,11 +1,11 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Cybersecurity Bootcamp Admissions Task</span>
+  <span class="headline">IT Bootcamp Admissions Task</span>
 </h1>
 
 ## About
 
-This module contains the admissions assessment for the Cybersecurity Bootcamp. Students will create and share a Google Doc with their admissions advisor.
+This module contains the admissions assessment for the IT Bootcamp. Students will create and share a Google Doc with their admissions advisor.
 
 ## Content
 
@@ -27,8 +27,8 @@ This module contains the admissions assessment for the Cybersecurity Bootcamp. S
 
 ### Course landing pages
 
-- [CSB - Cybersecurity Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/csb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cybersecurity-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
+- [CSB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
 
 ### Resources
 

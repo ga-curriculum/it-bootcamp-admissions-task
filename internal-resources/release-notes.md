@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Cybersecurity Bootcamp Admissions Task</span>
+  <span class="headline">IT Bootcamp Admissions Task</span>
   <span class="subhead">Release Notes</span>
 </h1>
 

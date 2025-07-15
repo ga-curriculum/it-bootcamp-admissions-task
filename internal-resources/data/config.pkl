@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Cybersecurity Bootcamp Admissions Task"
+  friendlyName = "IT Bootcamp Admissions Task"
   // This must match the repo name as it appears on GitHub exactly
-  name = "cybersecurity-bootcamp-admissions-task"
+  name = "it-bootcamp-admissions-task"
   type = "Lesson"
 }
 
