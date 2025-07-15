@@ -27,7 +27,7 @@ This module contains the admissions assessment for the IT Bootcamp. Students wil
 
 ### Course landing pages
 
-- [CSB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/itb.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
 
 ### Resources
