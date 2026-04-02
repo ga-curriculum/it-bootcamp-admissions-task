@@ -27,8 +27,8 @@ This module contains the admissions assessment for the IT Bootcamp. Students wil
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/it-bootcamp-admissions-task/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/it-bootcamp-admissions-task/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -40,4 +40,4 @@ This module contains the admissions assessment for the IT Bootcamp. Students wil
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
